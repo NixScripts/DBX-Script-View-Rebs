@@ -320,7 +320,7 @@ TextLabel_6.BorderSizePixel = 0
 TextLabel_6.Position = UDim2.new(0.5, 0, 0.75, 0)
 TextLabel_6.Size = UDim2.new(1, 0, 0.150000006, 0)
 TextLabel_6.Font = Enum.Font.SourceSansItalic
-TextLabel_6.Text = "1SK1_NIX"
+TextLabel_6.Text = "NO USER"
 TextLabel_6.TextColor3 = Color3.fromRGB(150, 40, 60)
 TextLabel_6.TextScaled = true
 TextLabel_6.TextSize = 14.000
@@ -558,15 +558,15 @@ local function PGPDYH_fake_script() -- Frame_2.Script
 	local verdad = true
 	local usuarios = {
 		{nombre= "",verificado = true},
-		{nombre= "sawyfps",verificado = true},
-		{nombre= "BigColtX",verificado = true},
-		{nombre= "Facolner02",verificado = true},
-		{nombre= "GOKUVSJJJ",verificado = true},
-		{nombre= "DanteAono",verificado = true},
-		{nombre= "felipe_top2020",verificado = true},
-		{nombre= "daviddornela",verificado = true},
-		{nombre= "Oabcoanedksj",verificado = true},
-		{nombre= "2MRMaster2",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
+		{nombre= "",verificado = true},
 		{nombre= "",verificado = true},
 		{nombre= "",verificado = true}
 	}
