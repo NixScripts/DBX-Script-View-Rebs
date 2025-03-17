@@ -933,8 +933,8 @@ end
 		for indice, v in ipairs(game:GetService("Workspace").Living:GetChildren()) do
 			textoStats.Text = "Entrando a misiones"
 			revisarStats()-- revisa si tienes stats
-				if minimo >= 29000 and minimo <200000 then
-					if v.Humanoid.Health >0 and v.Name == "Klirin" then
+				if minimo >= 0 and minimo <200000 then
+					if v.Humanoid.Health >0 and v.Name == "X Fighter" then
 						textoEnemigo.Text = v.name
 						SelectedQuests = v.name
 						SelectedMobs = SelectedQuests
